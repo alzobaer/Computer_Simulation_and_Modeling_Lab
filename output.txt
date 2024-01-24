@@ -1,0 +1,7 @@
+A -> ES: 0 EF: 3 LS: 2 LF: 5 ST: 2
+B -> ES: 0 EF: 5 LS: 0 LF: 5 ST: 0
+C -> ES: 5 EF: 12 LS: 5 LF: 12 ST: 0
+D -> ES: 12 EF: 14 LS: 12 LF: 14 ST: 0
+E -> ES: 5 EF: 9 LS: 10 LF: 14 ST: 5
+
+Critical Path: B -> C -> D

@@ -1,0 +1,5 @@
+A 3 no
+B 5 no
+C 7 A,B
+D 2 C
+E 4 B
